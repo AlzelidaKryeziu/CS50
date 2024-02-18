@@ -1,4 +1,4 @@
-This project was made from Alzelida Kryeziu, Fatlum Arifaj, Xhelal Sulejmani as part of an  assignment for the course "CS50" at LIFE from Gjirafa.
+This project was made from Alzelida Kryeziu, Fatlum Arifaj, Xhelal Sulejmani as part of the assignment for the course "CS50" at LIFE from Gjirafa.
 
 # Finance Tracker
 
