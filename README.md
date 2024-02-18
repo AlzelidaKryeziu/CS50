@@ -1,3 +1,5 @@
+This project was made from Alzelida Kryeziu, Fatlum Arifaj, Xhelal Jashari as part of an  assignment for the course "CS50" at LIFE from Gjirafa.
+
 # Finance Tracker
 
 Finance Tracker is a web app implemented using Flask and bootstrap that works like a mini stock exchange system. The following functionalities have been added to the app-
@@ -49,10 +51,6 @@ To deactivate the venv you just write the `deactivate` comand on terminal
 
 5] Now install all the packages which are mentioned in the requirements.txt file using `pip install -r requirements.txt`
 
-6] Once all the dependancies have been installed, run the commands:
-    1. `python database.py`, 
-    2.`python create_db.py`,
-    3.`python populate_db.py`, 
-    4.`python Main.py`
+6] Once all the dependancies have been installed, run the command: `python Main.py`
 
 7] This should start a local server and you can access it on your browser at localhost:5000.

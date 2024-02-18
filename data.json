@@ -1,21 +1,4 @@
 {
-  "users": [
-    {
-      "email": "lida@gmail.com",
-      "password": "$argon2id$v=19$m=65536,t=3,p=4$RA8smULSr1cO9RAiTe/d5w$g3jtmHON6XHnSe5EqpyN8OroLyNtsdzcyyNnqAhH4u4",
-      "cash_in_hand": 10000
-    },
-    {
-      "email": "admin@gmail.com",
-      "password": "$argon2id$v=19$m=65536,t=3,p=4$NwIgQ0D5enDiXpPg1CPnrA$ODW19j7xUnaf0GkNPzwSolCLLkptNjhp9f3k4ykkuUE",
-      "cash_in_hand": 20000
-    },
-    {
-      "email": "cs50@gmail.com",
-      "password": "$argon2id$v=19$m=65536,t=3,p=4$dL95ylT7JbqUuvP1yztqYQ$TbsbRuda+yYgbqUmaOLwej4k5aM+xi7gJU75YDXVxNM",
-      "cash_in_hand": 30000
-    }
-  ],
   "stocks": [
     {
       "name": "AAPL",
@@ -28,20 +11,12 @@
       "qty": 50,
       "owner_id": 2,
       "price": 2500
-    }
-  ],
-  "transactions": [
-    {
-      "type": "Bought",
-      "name": "AAPL",
-      "qty": 10,
-      "owner_id": 1
     },
     {
-      "type": "Sold",
-      "name": "GOOGL",
-      "qty": 5,
-      "owner_id": 2
+      "name": "MSFT",
+      "qty": 75,
+      "owner_id": 3,
+      "price": 300
     }
   ]
 }
