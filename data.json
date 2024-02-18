@@ -2,17 +2,17 @@
   "users": [
     {
       "email": "lida@gmail.com",
-      "password": "$argon2id$v=19$m=65536,t=3,p=4$RA8smULSr1cO9RAiTe/d5w$g3jtmHON6XHnSe5EqpyN8OroLyNtsdzcyyNnqAhH4u4",
+      "password": "$argon2id$v=19$m=65536,t=3,p=4$yqAhUMh/2eKm2NrvNH1BRw$ONefHVso972cWLyoErueqpYSnBSXEdLd/mtg7iakhzk",
       "cash_in_hand": 10000
     },
     {
       "email": "admin@gmail.com",
-      "password": "$argon2id$v=19$m=65536,t=3,p=4$NwIgQ0D5enDiXpPg1CPnrA$ODW19j7xUnaf0GkNPzwSolCLLkptNjhp9f3k4ykkuUE",
+      "password": "$argon2id$v=19$m=65536,t=3,p=4$JUYmbcljIRdFc00N0MCCZA$C8RujefuHpHgvD2JV0p3o8lTxMPVfZl8bmL5r83vcqY",
       "cash_in_hand": 20000
     },
     {
       "email": "cs50@gmail.com",
-      "password": "$argon2id$v=19$m=65536,t=3,p=4$dL95ylT7JbqUuvP1yztqYQ$TbsbRuda+yYgbqUmaOLwej4k5aM+xi7gJU75YDXVxNM",
+      "password": "$argon2id$v=19$m=65536,t=3,p=4$Owb1dP7GX6C/2uVyYPa3Tg$Z86wM9Vst1hgdLhmOHxjG9GTXTteyuD6frpBtQQoxxE",
       "cash_in_hand": 30000
     }
   ],
