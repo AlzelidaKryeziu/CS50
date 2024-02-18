@@ -56,3 +56,5 @@ To deactivate the venv you just write the `deactivate` comand on terminal
     4.`python Main.py`
 
 7] This should start a local server and you can access it on your browser at localhost:5000.
+
+This project was made from Alzelida Kryeziu, Fatlum Arifaj, Xhelal.
